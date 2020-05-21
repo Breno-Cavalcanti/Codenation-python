@@ -1,2 +1,2 @@
 # Codenation-python
-Esse código foi qual usei para o desafio da codenation python.
+Nesse repositório irei compartilhar os códgios desenvolvidos para os desafios da codenation.
